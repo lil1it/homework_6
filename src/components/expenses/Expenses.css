@@ -1,0 +1,17 @@
+/* .ul-list{
+width: 800px;
+height: 392px;
+margin: 0 auto;
+margin-top: 2rem;
+background: #1F1F1F;
+border-radius: 15px;
+padding-top: 1.5rem;
+} */
+.ul-list {
+    padding: 10px;
+    border: 3px solid #1F1F1F(5, 140, 5);
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background: #1F1F1F;
+    }

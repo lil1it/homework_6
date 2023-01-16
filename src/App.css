@@ -1,0 +1,20 @@
+*{ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bold;}
+.App {
+  display: flex;
+  justify-content: center;
+  background:#3F3F3F;
+  margin: 0 auto;
+  border-radius: 12px;
+  padding-top: 3rem;
+  min-height: 70rem;
+  max-width: 90%;
+  /* background-color: gray;
+  /*  #1F1F1F; 
+  border-radius: 3rem;
+  padding-left: 2rem;
+  margin-top:1rem ; */ 
+ 
+}
+.items-inapp{text-align: center;
+  width: 780px;}

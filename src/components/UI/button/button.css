@@ -1,0 +1,14 @@
+.btn{
+   
+    background-color: rgb(95, 25, 161);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16px 18px;
+gap: 10px;
+background: #4A026B;
+border-radius: 10px;
+}

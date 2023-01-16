@@ -1,0 +1,15 @@
+.form{
+
+    width: 730px;
+    /* height: 220px; */
+    border-radius: 15px;
+    padding: 2rem;
+    margin-right:3rem;
+    background: #AD9BE9;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+   
+}
+
